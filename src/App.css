@@ -1,0 +1,18 @@
+.dFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .textCenter {
+    text-align: center;
+  }
+  .footerLink {
+    text-decoration: none;
+    display: block;
+    font-size: 15px;
+    color: blue;
+  }
+  footer {
+    margin-top: 1px;
+  }
